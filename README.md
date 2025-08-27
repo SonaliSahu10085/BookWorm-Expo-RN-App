@@ -74,7 +74,7 @@ npx expo
 
 ## 📲 How to Install APK
 
-1. [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)]([https://drive.google.com/uc?export=download&id=1mOni3DzDhaP2Ge77CzXUUK5oUjnD6cXz])
+1. [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://drive.google.com/uc?export=download&id=1mOni3DzDhaP2Ge77CzXUUK5oUjnD6cXz)
 2. Open the downloaded file on your Android device.
 3. Allow installation from unknown sources if prompted.
 4. Enjoy the app 🚀

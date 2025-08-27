@@ -31,10 +31,11 @@ This is a true **full‑stack** project—not just a pretty UI.
 - 🔑 Implement stateless auth using **JSON Web Tokens (JWT)**
 - 🔄 Add performant **infinite loading** with pagination cursors
 - 🖼️ Handle image uploads the easy way (base64 → Cloudinary)
-- 🛫 Deploy the backend **for free** (Render / Railway)
+- 🛫 Deploy the backend **for free** (Render)
 - 🌍 Ship a cross‑platform app with **React Native + Expo Router**
 - 🧭 Animate navigation & shared element transitions
-- 🧪 Debug on a physical phone—no Android Studio or Xcode needed
+- 🧪 Debug on a physical phone — no Android Studio or xcode needed
+- 🛫 Create the apk for mobile **for free** (Expo Dev)
 
 ---
 
@@ -54,19 +55,27 @@ CLOUDINARY_API_SECRET=<YOUR_CLOUDINARY_API_SECRET>
 API_URL=<YOUR_DEPLOYED_API_URL>
 ```
 
-## ⚙️ Run the backend
+## ⚙️ Run the backend on local
 
 ```bash
 cd backend
 npm install
-npm run dev
+npm run server
 
 ```
 
-## 📱 Run the mobile
+## 📱 Run the mobile on local
 
 ```bash
 cd mobile
 npm install
 npx expo
 ```
+
+## 📲 How to Install APK
+
+1. [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)]([https://example.com/your-app.apk](https://drive.google.com/uc?export=download&id=1mOni3DzDhaP2Ge77CzXUUK5oUjnD6cXz))
+2. Open the downloaded file on your Android device.
+3. Allow installation from unknown sources if prompted.
+4. Enjoy the app 🚀
+
